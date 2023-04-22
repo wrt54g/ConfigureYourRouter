@@ -1,8 +1,6 @@
 Configure Your Router<br>
 **WARNING: There is still work in progress. It's not recommended that you use the website in this stage.**<br>
-Choose a router from the list:<br>
 <h2>Router list</h2>
-
 <table>
   <tr>
     <th></th>
@@ -13,5 +11,3 @@ Choose a router from the list:<br>
     <td>pfSense</td>
   </tr>
 </table>
-</body>
-</html>
