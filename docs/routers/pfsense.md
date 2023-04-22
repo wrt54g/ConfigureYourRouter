@@ -8,10 +8,10 @@
 🌐 <a href="https://www.pfsense.org/download/">Firmware downloads</a><br>
 🌐 <a href="https://docs.netgate.com/pfsense/en/latest/">Router Manual</a>
 <h2>Settings</h2>
-⚙️ Change hostname
-⚙️ Change subnet
-⚙️ Get client information
-⚙️ Port forwarding
-⚙️ Change DNS server
-⚙️ Update firmware
+⚙️ Change hostname<br>
+⚙️ Change subnet<br>
+⚙️ Get client information<br>
+⚙️ Port forwarding<br>
+⚙️ Change DNS server<br>
+⚙️ Update firmware<br>
 ⚙️ Get connected clients
