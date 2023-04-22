@@ -8,6 +8,6 @@ Configure Your Router<br>
   </tr>
   <tr>
     <td><img src="https://www.pfsense.org/img/apple-touch-icon.png" style="width:60px;height:60px;"></td>
-    <td>pfSense</td>
+    <td><a href="routers/pfsense.md">pfSense</a></td>
   </tr>
 </table>
