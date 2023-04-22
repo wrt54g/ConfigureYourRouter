@@ -4,6 +4,14 @@
 ⚙️ Default username: admin<br>
 ⚙️ Default password: pfsense
 <h2>Manufacturer information</h2>
-🌐  <a href="https://forum.netgate.com/category/66/pfsense-software">Community forum</a><br>
-🌐  <a href="https://www.pfsense.org/download/">Firmware downloads</a><br>
-🌐  <a href="https://docs.netgate.com/pfsense/en/latest/">Router Manual</a>
+🌐 <a href="https://forum.netgate.com/category/66/pfsense-software">Community forum</a><br>
+🌐 <a href="https://www.pfsense.org/download/">Firmware downloads</a><br>
+🌐 <a href="https://docs.netgate.com/pfsense/en/latest/">Router Manual</a>
+<h2>Settings</h2>
+⚙️ Change hostname
+⚙️ Change subnet
+⚙️ Get client information
+⚙️ Port forwarding
+⚙️ Change DNS server
+⚙️ Update firmware
+⚙️ Get connected clients
