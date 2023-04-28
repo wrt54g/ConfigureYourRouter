@@ -6,5 +6,6 @@
 <img src="/ConfigureYourRouter/images/pfsense/generalsystem.png"><br>
 4. Select the Hostname field and enter your new hostname there.<br>
 <img src="/ConfigureYourRouter/images/pfsense/save.png"><br>
+5. Click the blue Save button at the bottom.
 
 You're done!
