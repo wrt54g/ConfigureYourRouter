@@ -19,7 +19,7 @@
 <div style="float: left">
 <img height="20" width="20" src="https://avatars.githubusercontent.com/u/85389871">
 <span style="float:right"><a href="https://github.com/wrt54g">@wrt54g</a> wrote this on 28-04-2023:</span>
-</div><br>
+</div>
 <div style="float: left">
 The screenshots are from my SG-1100 running pfSense Plus. However, these instructions will work on both the pfSense community edition and the pfSense Plus version. I've used the pfsense Community edition before I had the SG-1100, and I've not noticed and differences between pfSense CE and pfSense Plus (except for the Switches tab). I'm sure there are... But these instructions will work on both.
 </div>
