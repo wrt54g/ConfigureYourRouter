@@ -8,7 +8,7 @@
 🌐 <a href="https://www.pfsense.org/download/">Firmware downloads</a><br>
 🌐 <a href="https://docs.netgate.com/pfsense/en/latest/">Router Manual</a>
 <h2>Settings</h2>
-⚙️ Change hostname<br>
+⚙️ <a href="hostname">Change hostname</a><br>
 ⚙️ Change subnet<br>
 ⚙️ Get client information<br>
 ⚙️ Port forwarding<br>
