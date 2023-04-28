@@ -12,4 +12,5 @@
 🌐 Mobile app (Android)<br>
 🌐 Mobile app (iOS)<br>
 🌐 Mobile app (Samsung Galaxy store)<br>
-🌐 Mobile app (Huawei AppGallery)
+🌐 Mobile app (Huawei AppGallery)<br>
+🌐 Mobile app (F-Droid)
