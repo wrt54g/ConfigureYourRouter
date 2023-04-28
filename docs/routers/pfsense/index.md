@@ -9,7 +9,7 @@
 🌐 <a href="https://docs.netgate.com/pfsense/en/latest/">Router Manual</a>
 <h2>Settings</h2>
 ⚙️ <a href="hostname">Change hostname</a><br>
-⚙️ Change subnet<br>
+⚙️ <a href="subnet">Change DHCP range</a><br>
 ⚙️ Get client information<br>
 ⚙️ Port forwarding<br>
 ⚙️ <a href="dns">Change DNS server</a><br>
