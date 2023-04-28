@@ -19,5 +19,7 @@
 <img height="20" width="20" src="https://avatars.githubusercontent.com/u/85389871">
   <span style="float:right"><a href="https://github.com/wrt54g">@wrt54g</a> wrote this on 28-04-2023:</span>
 </div>
+<div style="float: left">
 Here is where you can put notes about the instructions. For instance:<br>
 These instructions will only work on Revision A of the router. The revision B has it's own documentation in the routers directory. The differences are that the DHCP server dialog looks a bit diffrent. The rest of it will work on both Reveision A and B.
+</div>
