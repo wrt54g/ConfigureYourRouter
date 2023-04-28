@@ -14,3 +14,6 @@
 🌐 Mobile app (Samsung Galaxy store)<br>
 🌐 Mobile app (Huawei AppGallery)<br>
 🌐 Mobile app (F-Droid)
+<h2>Notes</h2>
+Here is where you can put notes about the instructions. For instance:<br>
+These instructions will only work on Revision A of the router. The revision B has it's own documentation in the routers directory. The differences are that the DHCP server dialog looks a bit diffrent. The rest of it will work on both Reveision A and B.
