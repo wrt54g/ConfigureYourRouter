@@ -1,0 +1,23 @@
+name: Stale
+on:
+  schedule:
+    - cron: "07 22 * * *"
+  workflow_dispatch:
+
+jobs:
+  stale:
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write
+      pull-requests: write
+    steps:
+      - uses: actions/stale@v7
+        with:
+          days-before-issue-stale: 10
+          days-before-issue-close: 5
+          stale-issue-label: "stale"
+          stale-issue-message: "This issue is marked as stale because it has been open for 10 days with no activity."
+          close-issue-message: "This issue is now closed because of the 14 day limit since stale. Feel free to create a new issue if the problem was not fixed yet."
+          days-before-pr-stale: -1
+          days-before-pr-close: -1
+          repo-token: ${{ secrets.GITHUB_TOKEN }}
