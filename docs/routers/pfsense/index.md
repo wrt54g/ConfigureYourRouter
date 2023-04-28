@@ -12,6 +12,6 @@
 ⚙️ Change subnet<br>
 ⚙️ Get client information<br>
 ⚙️ Port forwarding<br>
-⚙️ Change DNS server<br>
+⚙️ <a href="dns">Change DNS server</a><br>
 ⚙️ Update firmware<br>
 ⚙️ Get connected clients
